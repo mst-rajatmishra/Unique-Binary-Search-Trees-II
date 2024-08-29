@@ -17,4 +17,4 @@ Output: [[1]]
 
 Constraints:
 
-1 <= n <= 8
+```1 <= n <= 8```
